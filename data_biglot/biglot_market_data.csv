@@ -1,6 +1,6 @@
 ﻿TableName,URL,Column1,Column2,Column3,Column4
-Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 21 รายการ
-         ข้อมูล ณ วันที่ 17 ส.ค. 2569",,,
+Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 23 รายการ
+         ข้อมูล ณ วันที่ 18 ส.ค. 2569",,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
@@ -13,24 +13,26 @@ Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ADVANC,430,159.53,371.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTTEP,1000,146.5,146.5
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPNREIT,2400,32.52,13.55
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TOA,1771,26.73,15.09
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BSET100,1609,19.63,12.2
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPALL,300,14.03,46.75
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ERW,3000,11.34,3.78
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CBG,180,10.26,57.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,COM7,300,9.15,30.5
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,OSP,400,7.28,18.2
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BDMS,302,5.88,19.5
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CK,250,4.8,19.2
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BGRIM,250,4.55,18.2
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPF,200,4.44,22.2
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,AOT,46,3.11,67.5
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TLI,254,3.06,12.04
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ORI,1010,1.93,1.91
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CFARM,2150,1.78,0.83
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KCE13C2701A,2500,1.48,0.59
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KK,1000,0.99,0.99
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TVDH,15000,0.9,0.06
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,DMT,19000,210.9,11.1
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,DIF,5684,57.98,10.2
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SPALI,2173,35.85,16.5
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BH,135,26.19,194.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KKP,201,22.16,110.5
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ALT,11000,19.8,1.8
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,OR,1100,13.53,12.3
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TOA,794,12.1,15.25
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTTGC,300,11.78,39.25
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BGRIM,500,9.39,18.78
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TTB,2000,5.76,2.88
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MTC,150,4.91,32.75
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,STPI,800,4.8,6.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,AOT,63,4.16,66.5
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,FTI,2000,4.14,2.07
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BA,190,3.85,20.27
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,IRPC,1500,3.69,2.46
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,GULF,50,3.26,65.25
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TOP,51,3.23,63.25
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,COM7,100,3.0,30.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ITD,5000,1.5,0.3
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,GULF13C2611A,3000,0.84,0.28
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CCET13C2612A,2000,0.81,0.41
