@@ -1,6 +1,6 @@
 ﻿TableName,URL,Column1,Column2,Column3,Column4
-Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 19 รายการ
-         ข้อมูล ณ วันที่ 20 ส.ค. 2569",,,
+Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 15 รายการ
+         ข้อมูล ณ วันที่ 21 ส.ค. 2569",,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
@@ -13,22 +13,18 @@ Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SPCG,538981,4910.11,9.11
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TTB,117000,334.62,2.86
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ICC,3161,77.29,24.45
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TACC,6931,39.16,5.65
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SPCG-F,4210,38.35,9.11
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ADVANC,42,15.08,359.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SCGP,450,13.95,31.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ALT,6000,11.04,1.84
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,GPSC,200,9.8,49.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,HANA,200,9.4,47.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPNREIT,583,7.92,13.58
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KKP,60,6.75,112.5
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,WHART,600,6.66,11.1
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,JMT,500,5.85,11.7
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,DELTA13P2610A,8000,3.5,0.44
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,COM7,100,3.03,30.25
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTTEP13C2611A,6000,2.04,0.34
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KCE13C2701A,2000,1.43,0.72
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,HANA13P2701A,1650,0.71,0.43
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KTB,758,33.48,44.2
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTTGC,760,32.19,42.35
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,GPSC,400,20.2,50.5
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TRUE,722,10.32,14.3
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SCC,40,9.88,247.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,KCE13C2701A,10000,6.63,0.66
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CBG,100,5.7,57.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,VGI,4934,5.48,1.11
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTTEP,30,4.59,153.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MINT,200,4.52,22.6
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,GOLDM01,1020,4.28,4.2
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,HANA13C2701A,6000,2.94,0.49
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,HANA13P2701A,5000,2.15,0.43
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SPRC13C2701B,1650,0.63,0.38
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTTGC13C2612A,1200,0.37,0.31
