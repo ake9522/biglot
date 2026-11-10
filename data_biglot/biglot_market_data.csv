@@ -1,6 +1,6 @@
 ﻿TableName,URL,Column1,Column2,Column3,Column4
 Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 7 รายการ
-         ข้อมูล ณ วันที่ 6 พ.ย. 2569",,,
+         ข้อมูล ณ วันที่ 9 พ.ย. 2569",,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
@@ -13,10 +13,10 @@ Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ADVANC,42,14.2,338.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,THAI,2360,12.15,5.15
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SCGP,344,9.12,26.5
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MTC,228,7.98,35.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,PTT,130,5.07,39.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CRC,150,4.65,31.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,DELTA13P2701A,1800,1.8,1.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BSET100,3443,38.3,11.12
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SCC,100,23.7,237.0
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MINT,300,6.42,21.4
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPALL,108,5.35,49.54
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MTC,113,3.49,30.75
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TOP,53,3.18,60.19
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MINT13C2703A,1000,0.26,0.26
