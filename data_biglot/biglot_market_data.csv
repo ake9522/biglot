@@ -1,6 +1,6 @@
 ﻿TableName,URL,Column1,Column2,Column3,Column4
-Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 7 รายการ
-         ข้อมูล ณ วันที่ 9 พ.ย. 2569",,,
+Date,https://www.settrade.com/th/equities/market-data/biglot,"จำนวน 5 รายการ
+         ข้อมูล ณ วันที่ 10 พ.ย. 2569",,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
@@ -13,10 +13,8 @@ Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,,,,
 Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ชื่อย่อหลักทรัพย์  (Click to sort Ascending),ปริมาณ ('000 หุ้น)  (Click to sort Ascending),มูลค่า (ล้านบาท)  (Click to sort Ascending),ราคาเฉลี่ย (บาท)  (Click to sort Ascending)
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,BSET100,3443,38.3,11.12
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,SCC,100,23.7,237.0
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MINT,300,6.42,21.4
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPALL,108,5.35,49.54
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MTC,113,3.49,30.75
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,TOP,53,3.18,60.19
-Big Lot,https://www.settrade.com/th/equities/market-data/biglot,MINT13C2703A,1000,0.26,0.26
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ADVANC,70,23.62,337.4
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CPALL,393,19.02,48.36
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,NVDA80,222,6.77,30.5
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,CRC,150,4.88,32.5
+Big Lot,https://www.settrade.com/th/equities/market-data/biglot,ASW,596,4.53,7.6
